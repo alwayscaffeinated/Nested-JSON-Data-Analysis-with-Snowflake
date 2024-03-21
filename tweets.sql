@@ -96,3 +96,5 @@ SELECT RAW_STATUS:user:id AS USER_ID
 FROM TWEET_INGEST
 ,LATERAL FLATTEN
 (input => RAW_STATUS:entities:hashtags);
+
+//Snowflake exercise code
