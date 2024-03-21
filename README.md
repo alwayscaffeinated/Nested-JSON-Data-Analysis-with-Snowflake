@@ -1,5 +1,3 @@
-# Nested-JSON-Data-Analysis-with-Snowflake
-
 **Project Overview:**
 
 In this project, I delved into the realm of social media data analysis using Snowflake, focusing on processing nested JSON data from Twitter. The goal was to create a robust pipeline for ingesting, querying, and analyzing Twitter data within the Snowflake environment.
@@ -18,3 +16,7 @@ Ensured Snowflake readiness, initialized database and table, configured file for
 
 **Project Outcome:**
 This project not only provided hands-on experience in working with nested JSON data within Snowflake but also enhanced proficiency in database management, SQL querying, and data analysis techniques. The structured approach to data handling ensures scalability and efficiency, laying the groundwork for future data-driven endeavors.
+
+
+
+
