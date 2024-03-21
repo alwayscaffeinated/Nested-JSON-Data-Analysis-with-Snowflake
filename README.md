@@ -6,8 +6,8 @@ In this project, I delved into the realm of social media data analysis using Sno
 
 **Key Tasks:**
 
-Database Setup: Created "SOCIAL_MEDIA_FLOODGATES" for efficient Twitter data management. \n
-Table Creation: Established "TWEET_INGEST" for structured storage and seamless querying. \n
+Database Setup: Created "SOCIAL_MEDIA_FLOODGATES" for efficient Twitter data management.
+Table Creation: Established "TWEET_INGEST" for structured storage and seamless querying.
 File Format Configuration: Optimized JSON format for Twitter data compatibility.
 Data Ingestion: Uploaded "nutrition_tweets.json" into "TWEET_INGEST" using predefined format.
 Querying and Analysis: Executed SQL queries to extract tweet entities, hashtags, and more.
